@@ -16,5 +16,13 @@ namespace AEV7
         {
             InitializeComponent();
         }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            txtRelojH.Text = DateTime.Now.ToString("hh:mm:ss");
+            txtRelojF.Text = DateTime.Now.ToString("dd/MM/yyyy");
+        }
+
+
     }
 }
