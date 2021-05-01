@@ -88,5 +88,29 @@
   <ItemGroup>
     <None Include="Resources\lineaHF.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall555.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
