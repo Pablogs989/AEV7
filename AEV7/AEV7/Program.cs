@@ -11,7 +11,7 @@ namespace AEV7
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
-        /// hola? 
+        /// hola? example   
         [STAThread]
         static void Main()
         {
